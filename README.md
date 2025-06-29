@@ -1,1 +1,1 @@
-# insuarance-fraud
+# insurance-fraud
