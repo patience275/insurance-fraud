@@ -74,13 +74,16 @@ C) model selection and training
 D)model evaluation
 - i first trained  using logistic regression. the model performed preety fairy with an accuracy on 67%.i then noticed that the model was biased towards the 0 category.
 
-
+(1.png)
 
 
 E) handling class imbalance
 - before contuning to use random forest, i used the RandomOverSampler to reduce the imbalanceness in the classes
 - i then trained ane tested using Logistic Regression and RandomForest.the logisic regression rerutned an accuracy of 62% and perfomed faily on both classes.
 - when i used the RandomForest, i got an accuracy of (91%  on training and 89% on testing) and it perfomed exepotannly well on both classes.
+
+
+  (3.png)
 
 
 
