@@ -83,7 +83,7 @@ E) handling class imbalance
 - when i used the RandomForest, i got an accuracy of (91%  on training and 89% on testing) and it perfomed exepotannly well on both classes.
 
 
-  (3.png)
+  ![classification report](3.png)
 
 
 
