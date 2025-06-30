@@ -74,7 +74,7 @@ C) model selection and training
 D)model evaluation
 - i first trained  using logistic regression. the model performed preety fairy with an accuracy on 67%.i then noticed that the model was biased towards the 0 category.
 
-(1.png)
+![classification report](1.png)
 
 
 E) handling class imbalance
