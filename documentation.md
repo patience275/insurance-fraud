@@ -83,9 +83,12 @@ D)model evaluation
 E) handling class imbalance
 - before contuning to use random forest, i used the RandomOverSampler to reduce the imbalanceness in the classes
 - i then trained ane tested using Logistic Regression and RandomForest.the logisic regression rerutned an accuracy of 62% and perfomed faily on both classes.
-- when i used the RandomForest, i got an accuracy of (91%  on training and 89% on testing) and it perfomed exepotannly well on both classes.
+
 
 ![classification report](2.png)
+
+- when i used the RandomForest, i got an accuracy of (91%  on training and 89% on testing) and it perfomed exepotannly well on both classes.
+
   ![classification report](3.png)
 
 
