@@ -59,6 +59,9 @@ In this study, we have used Kaggle provided dataset of Auto Insurance Claim cont
 A) Exploratory Data Analysis
 - i explored the data to understand patterns and relationships.I visulaized different features to undersand them(univariate) . i also visulaized differnt features  with others like the lables to undersand the data and its distribution.
 
+
+![eda](4.png)
+
 B)data preprocessing
 -here, i checked for missing values  and filled them using the 'bfill\ffill' method.
 - i checked each feature to ensure all the variables did bot have special cahracters and those that did, i replaced them
